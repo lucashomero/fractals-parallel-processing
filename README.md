@@ -1,12 +1,13 @@
 # fractals-parallel-processing
 Paralelização da Geração de Fractais
 
-Arquivos:
-Exercico02-.py
-exerc02-.py
-Como usar:
-Faça upload dos dois arquivos no Colab.
-Execute primeiro o Exercico02-.py (define a estrutura original).
-Em seguida, rode o exerc02-.py (roda com threads).
-O código pedirá uma URL e a palavra que deseja buscar.
-O tempo de execução com threads será exibido ao final.
+**Arquivos:**
+- `Exercicio02-Base.py`
+- `exerc02-Resolvido.py`
+
+**Como usar no Google Colab:**
+1. Faça upload dos dois arquivos no painel lateral do Colab.
+2. Execute primeiro o `Exercicio02-Base.py` (define a estrutura original do crawler).
+3. Em seguida, execute o `exerc02-Resolvido.py` (com paralelização por threads).
+4. O código pedirá uma **URL** e a **palavra-chave** a ser buscada nas páginas.
+5. O tempo de execução com threads será exibido no final do processo.
