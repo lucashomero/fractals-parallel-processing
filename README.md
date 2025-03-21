@@ -1,4 +1,4 @@
-### 🧬 Exercício 03 – Geração de Fractais com Threads
+### fractals-parallel-processing
 
 **Arquivos:**
 - `Exercico04-CodigoBase`
