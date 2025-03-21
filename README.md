@@ -10,3 +10,5 @@
 3. Depois execute o `ex04-Resolvido.py` para gerar os fractais com paralelismo (threading).
 4. As imagens dos fractais serão salvas na pasta `/content/`.
 5. Use `files.download()` para baixar cada uma delas.
+
+![Gráfico de comparação](grafico_ex03.png)
