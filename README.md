@@ -1,13 +1,12 @@
-# fractals-parallel-processing
-Paralelização da Geração de Fractais
+### 🧬 Exercício 03 – Geração de Fractais com Threads
 
 **Arquivos:**
-- `Exercicio02-Base.py`
-- `exerc02-Resolvido.py`
+- `Exercico04-CodigoBase`
+- `ex04-Resolvido.py`
 
 **Como usar no Google Colab:**
-1. Faça upload dos dois arquivos no painel lateral do Colab.
-2. Execute primeiro o `Exercicio02-Base.py` (define a estrutura original do crawler).
-3. Em seguida, execute o `exerc02-Resolvido.py` (com paralelização por threads).
-4. O código pedirá uma **URL** e a **palavra-chave** a ser buscada nas páginas.
-5. O tempo de execução com threads será exibido no final do processo.
+1. Faça upload dos dois arquivos no Colab.
+2. Rode o `Exercico04-CodigoBase` primeiro (define as funções dos fractais).
+3. Depois execute o `ex04-Resolvido.py` para gerar os fractais com paralelismo (threading).
+4. As imagens dos fractais serão salvas na pasta `/content/`.
+5. Use `files.download()` para baixar cada uma delas.
